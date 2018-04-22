@@ -5,5 +5,6 @@ var a, b;
 }
 
 function add(a,b) {
-  a + b;
+  number = a + b;
+  console.log(number);
 }
