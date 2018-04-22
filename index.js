@@ -5,5 +5,5 @@ var a, b;
 }
 
 function add(a,b) {
-  retun(a + b);
+  return(a + b);
 }
