@@ -3,6 +3,6 @@
   b = Math.floor(Math.random() * 1000);
 }
 
-function add() {
+function add(a,b) {
   a + b;
 }
